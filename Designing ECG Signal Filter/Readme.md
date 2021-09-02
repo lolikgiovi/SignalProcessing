@@ -5,6 +5,7 @@ Electrocardiogram (ECG) is a medical device that produces timeseries data that r
 The data (or we call it *signal* in biomedical engineering field) of ECG is a timeseries of *electrical current* produces by the constraction of cardiac (heart) muscle. 
 
 Looking at the data's morphological characteristic (how the data looks in our bare eyes), there are a specific pattern of ECG data in one heart-beat cycle:
+
 ![ECG Pattern](https://d1j63owfs0b5j3.cloudfront.net/pop-quiz/answerImage/Fundamental-Electrogardiogram1.1.png)
 ![Another ECG Pattern](https://litfl.com/wp-content/uploads/2018/08/Right-Bundle-Branch-Block-RBBB-ECG-Strip-LITFL.png)
 Now that the pattern is pretty obvious in a stable and ideal condition, for most of the field experience, there are tons of noises that could occur in one ECG data-mining.
