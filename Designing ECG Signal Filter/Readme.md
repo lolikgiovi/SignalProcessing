@@ -21,3 +21,6 @@ In the signal processing field, there are method to eliminate certain noises cal
 There is also *infinite impulse response* filters that are adaptable to a more complex pattern and will try to response *infinitely* to the data.
  
 In this case, I will use both of the filters type.
+
+## Dataset
+For this project, I used the dataset provided from [Here (Chapter 8's Resources)](https://www.elsevier.com/books-and-journals/book-companion/9780128093955) with *.m format* files (matlab files). There are *ECG noise* data which are ECG with PLI noises added. 
